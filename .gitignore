@@ -1,0 +1,5 @@
+node_modules/
+review-preview.png
+*.log
+.env
+.env.*
